@@ -1,7 +1,7 @@
 # Web scraping
 
 
-Use web scraping tool to find the [top 100 Christmas movies](https://www.imdb.com/list/ls000096828/
+I used BeautifulSoup for web scraping tool to find the [top 100 Christmas movies](https://www.imdb.com/list/ls000096828/
 ) from The Internet Movie Database (IMDb).
 Save the results as .csv file.
 
